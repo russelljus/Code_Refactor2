@@ -1,6 +1,6 @@
 <h1>Horiseon Code Refactor</h1>
 
-<h1>User Story</h1>
+<h2>User Story</h2>
 
 Marketing agency Horiseon found discrepencies in their website and existing code. They reached out to me to refactor their website and ensure that it meets accessibility standards so their website is optimized and ready for deployment on search engines.
 
