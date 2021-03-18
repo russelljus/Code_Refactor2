@@ -11,8 +11,16 @@ Marketing agency Horiseon found discrepencies in their website and existing code
 
 <li> Developer comments for easier readability.</li>
 <li> Added attributes to text for the images to meet accessibility standards.</li>
-<li> Found and fixed the missind id in the navigation.</li>
+<li> Found and fixed the missing id in the navigation.</li>
 <li> Consolidated CSS</li>
 <li> Added semantic tags (header, main, nav, section, footer).</li>
 
 
+<img width="1440" alt="Screen Shot 2021-03-18 at 1 41 08 PM" src="https://user-images.githubusercontent.com/79387241/111708962-675c0100-880c-11eb-8caf-679bd0c53d4f.png">
+
+
+<h2>Deployed Links:</h2> 
+
+GitHub-Pages https://russelljus.github.io/Code_Refactor2/#social-media-marketing
+
+GitHub Repository https://github.com/russelljus/Code_Refactor2
